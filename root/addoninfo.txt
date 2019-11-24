@@ -1,0 +1,62 @@
+"AddonInfo"
+{
+	"maps"			"ranked_1x8 ranked_2x4 casual_1x8 casual_2x4 casual_1x8_ob casual_2x4_ob"
+	"IsPlayable"	"1"
+    "ranked_1x8"
+    {
+        "MaxPlayers"                    "8"
+    }
+    "ranked_2x4"
+    {
+        "MaxPlayers"                    "8"
+    }
+    "casual_1x8"
+    {
+        "MaxPlayers"                    "8"
+    }
+    "casual_2x4"
+    {
+        "MaxPlayers"                    "8"
+    }
+    "casual_1x8_ob"
+    {
+        "MaxPlayers"                    "12"
+    }
+    "casual_2x4_ob"
+    {
+        "MaxPlayers"                    "12"
+    }
+	"Default_Keys"
+    {
+        "01"
+        {
+            "Key"       "1"
+            "Command"   "+BackHome"
+            "Name"      "BackHome"
+        }
+        "02"
+        {
+            "Key"       "TAB"
+            "Command"   "+TabHome"
+            "Name"      "TabHome"
+        }
+        "03"
+        {
+            "Key"       "2"
+            "Command"   "+ToggleStat"
+            "Name"      "ToggleStat"
+        }
+        "11"
+        {
+            "Key"       "SPACE"
+            "Command"   "+TogglePanel"
+            "Name"      "TogglePanel"
+        }
+        "12"
+        {
+            "Key"       "F9"
+            "Command"   "+ToggleF9"
+            "Name"      "ToggleF9"
+        }
+    }
+}
